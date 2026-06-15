@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-clavada-en-mi-pecho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Mirada clavada en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-clavada-en-mi-pecho/) |
+| **Get License** | [Commercial Licensing for Mirada clavada en mi pecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-clavada-en-mi-pecho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada clavada en mi pecho, me quita la calma
+> Bailando en lo oscuro, tú y yo conectamos el alma
+> Esta noche es nuestra, la disco ya siente el calor
+> Acércate un poco, probemos de este dulce error
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
